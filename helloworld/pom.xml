@@ -13,7 +13,7 @@
   
   </repositories>
 	 <build>
-	    <finalName>${artifactId}</finalName>
+	    <finalName>helloworld</finalName>
 	</build>
 	 <dependencies>
 	 	<dependency>
